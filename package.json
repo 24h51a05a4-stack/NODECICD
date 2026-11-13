@@ -1,0 +1,14 @@
+{
+  "name": "nodecicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+     "start": "node App.js",
+     "test": "node App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
